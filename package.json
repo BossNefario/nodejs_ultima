@@ -1,0 +1,19 @@
+{
+  "name": "nodejs_ultima",
+  "version": "1.0.0",
+  "description": "Calculadora",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "Teste",
+    "da",
+    "Calculadora"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.6.2"
+  }
+}
